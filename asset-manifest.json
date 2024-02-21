@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ebff01a.css",
+    "main.js": "/static/js/main.a592632f.js",
+    "static/media/guy_icon.png": "/static/media/guy_icon.e0aa5cf2232e61249398.png",
+    "static/media/phoneBG.jpg": "/static/media/phoneBG.0dd816cd20d4c6fdfbe5.jpg",
+    "static/media/about.jpg": "/static/media/about.4ba06a15f3429d1554c8.jpg",
+    "static/media/interno.jpg": "/static/media/interno.5f6be527e34b07765f5e.jpg",
+    "static/media/hounter.jpg": "/static/media/hounter.bc9b0336f22bf0bbfa92.jpg",
+    "static/media/webinar.jpg": "/static/media/webinar.bc8d3d080b7e027a7445.jpg",
+    "static/media/innisfree.jpg": "/static/media/innisfree.b8b084ab75f12ccef68e.jpg",
+    "static/media/hulo-dev.jpg": "/static/media/hulo-dev.4f75bd8e20d5dabd3b65.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.6335eb10deb1b19bffc0.jpg",
+    "static/media/react_shop.jpg": "/static/media/react_shop.8faeda4adc56ecacea34.jpg",
+    "static/media/data_analytics.jpg": "/static/media/data_analytics.5477201eff982efee2a7.jpg",
+    "index.html": "/index.html",
+    "main.3ebff01a.css.map": "/static/css/main.3ebff01a.css.map",
+    "main.a592632f.js.map": "/static/js/main.a592632f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ebff01a.css",
+    "static/js/main.a592632f.js"
+  ]
+}
